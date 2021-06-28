@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **NodeJS**
 
-- ⚡ Fun fact **World Wide Web is spelled faster than WWW !!!**
+- ⚡ Fun fact **World Wide Web is spelled faster than WWW 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
