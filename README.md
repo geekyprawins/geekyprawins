@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Flutter Dev**
 
-- 🤝 I’m looking for help with **NodeJS**
-
 - ⚡ Fun fact **World Wide Web is spelled faster than WWW 😉**
 
 <h3 align="left">Connect with me:</h3>
