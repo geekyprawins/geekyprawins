@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Varma</h1>
 <h3 align="center">A passionate CS undergrad from India.</h3>
 
-- 🔭 I’m currently working on **DSA** , **Flutter** , **Frontend Dev**
+- 🔭 I’m currently working on  **Flutter** , **Frontend Dev** , **DSA**.
 
 - 🌱 I’m currently learning **C++, JavaScript, Java**
 
