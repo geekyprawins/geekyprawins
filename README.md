@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Praveen Varma</h1>
 <h3 align="center">A passionate CS undergrad from India.</h3>
 
+![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
+
 - 🔭 I’m currently working on  **Flutter** , **Frontend Dev** , **DSA**.
 
 - 🌱 I’m currently learning **C++, JavaScript, Java**
@@ -30,5 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyprawins&theme=chartreuse-dark&border_radius=30.0" alt="geekyprawins" /></p>
 
-![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
 
