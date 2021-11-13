@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Praveen Varma</h1>
+<h1 align="center">Hi 👋, I'm Praveen Varma <div><img align="center" src="https://komarev.com/ghpvc/?username=geekyprawins&color=green" height="20" width="100">
+</div></h1> 
 <h3 align="center">A passionate CS undergrad from India.</h3>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=geekyprawins&color=green" height="20" width="100">
 
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
