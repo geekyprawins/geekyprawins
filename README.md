@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"/>, I'm Praveen Varma <div><img align="center" src="https://komarev.com/ghpvc/?username=geekyprawins&color=brightgreen&label=Profile+Views" height="20" width="120">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width= 30px/>, I'm Praveen Varma <div><img align="center" src="https://komarev.com/ghpvc/?username=geekyprawins&color=brightgreen&label=Profile+Views" height="20" width="120">
 </div></h1> 
 <h3 align="center">A passionate CS undergrad from India.</h3>
 
