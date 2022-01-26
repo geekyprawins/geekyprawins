@@ -2,6 +2,9 @@
 </div></h1> 
 <h3 align="center">A passionate CS undergrad from India.</h3>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+
 
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
