@@ -9,7 +9,7 @@
 
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
-- 🔭 I’m currently working on  **Flutter** , **MERN Stack** , **Data Structures and Algos**.
+- 🔭 I’m currently working on  **Flutter** , **MERN Stack** , **DS and Algos**.
 
 - 🌱 I’m currently learning **C++, JavaScript, TypeScript**
 
