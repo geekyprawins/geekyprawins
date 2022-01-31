@@ -9,11 +9,11 @@
 
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
-- 🔭 I’m currently working on  **Flutter** , **Frontend Dev** , **DSA**.
+- 🔭 I’m currently working on  **Flutter** , **MERN Stack** , **Data Structures and Algos**.
 
-- 🌱 I’m currently learning **C++, JavaScript, Java**
+- 🌱 I’m currently learning **C++, JavaScript, TypeScript**
 
-- 👯 I’m looking to collaborate on **Flutter Dev**
+- 👯 I’m looking to collaborate on **Flutter and MERN Dev**
 
 - ⚡ Fun fact **World Wide Web is spelled faster than WWW 😉**
 
@@ -33,19 +33,26 @@
 <br/>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyprawins&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="geekyprawins" /></p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyprawins&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="geekyprawins" />
+ </p>
 </div>
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyprawins&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="geekyprawins" /></p>
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyprawins&theme=chartreuse-dark&border_radius=30.0" alt="geekyprawins" /></p>
+<p>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyprawins&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="geekyprawins" />
+</p>
 
 <br/>
 
-<h3 align="left">Now playing: </h3>
+<p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyprawins&theme=chartreuse-dark&border_radius=30.0" alt="geekyprawins" />
+</p>
+
+<br/>
+
+<h3 align="left">Currently vibing to: </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&redirect=true)
 
