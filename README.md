@@ -17,8 +17,11 @@
 
 - ⚡ Fun fact **World Wide Web is spelled faster than WWW 😉**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/praveen-varma-a4b27b1b5/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="geekyprawins" height="35" width="40" /></a>
 <a href="https://twitter.com/_praveenvarma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_praveenvarma_" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/geekyprawins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="geekyprawins" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/geekyprawins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="geekyprawins" height="30" width="40" /></a>
