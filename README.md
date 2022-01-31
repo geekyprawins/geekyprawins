@@ -4,6 +4,8 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&redirect=true)
+
 
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
@@ -36,6 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyprawins&theme=chartreuse-dark&border_radius=30.0" alt="geekyprawins" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&redirect=true)
+
 
 
