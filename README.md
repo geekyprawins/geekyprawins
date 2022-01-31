@@ -34,11 +34,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyprawins&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="geekyprawins" /></p>
 
-</br>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyprawins&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="geekyprawins" /></p>
 
-</br>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyprawins&theme=chartreuse-dark&border_radius=30.0" alt="geekyprawins" /></p>
 
