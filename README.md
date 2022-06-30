@@ -58,9 +58,11 @@
 
 <br/>
 
+<!-- 
 <h3 align="left">Currently vibing to: </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31fmgkvqnbglhj4glypkvieu2mhe&redirect=true) 
+-->
 
 
 
