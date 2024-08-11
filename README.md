@@ -12,11 +12,11 @@
 
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
-- 🔭 I’m currently working on  **Flutter** , **MERN Stack** , **DS and Algos**.
+- 🔭 I’m currently working on  **Springboot** , **GraphQL** , **ReactJS**.
 
-- 🌱 I’m currently learning **C++, JavaScript, TypeScript**
+- 🌱 I’m currently learning **Java, Rust, TypeScript**
 
-- 👯 I’m looking to collaborate on **Flutter and MERN Dev**
+- 👯 I’m looking to collaborate on **anything in tech**
 
 - ⚡ Fun fact **World Wide Web is spelled faster than WWW 😉**
 
